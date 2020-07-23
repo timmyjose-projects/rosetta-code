@@ -1,3 +1,3 @@
 # rosetta-code
 
-My contributions to the Rosetta Code project.
+This contains my contributions to the Rosetta Code project in various languages.

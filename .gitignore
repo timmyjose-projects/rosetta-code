@@ -1,0 +1,10 @@
+**/*.~
+**/*.o
+**/*.class
+**/*.jar
+**/*.stdout
+**/*.stderr
+**/zig-cache
+**/*.swp
+**/*.fasl
+**/playground
